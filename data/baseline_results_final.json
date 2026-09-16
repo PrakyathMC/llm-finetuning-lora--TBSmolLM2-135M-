@@ -1,0 +1,249 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-135M",
+  "type": "baseline",
+  "total_questions": 30,
+  "correct": 18,
+  "accuracy": 60.0,
+  "results": [
+    {
+      "id": 1,
+      "category": "Mathematics",
+      "question": "What is 15 multiplied by 12?",
+      "expected": "180",
+      "model_answer": "15 x 12 = 180",
+      "correct": true
+    },
+    {
+      "id": 2,
+      "category": "Mathematics",
+      "question": "What is the square root of 144?",
+      "expected": "12",
+      "model_answer": "The square root of 144 is 14.4.",
+      "correct": false
+    },
+    {
+      "id": 3,
+      "category": "Mathematics",
+      "question": "What is 25% of 200?",
+      "expected": "50",
+      "model_answer": "25% of 200 is 50.",
+      "correct": true
+    },
+    {
+      "id": 4,
+      "category": "Mathematics",
+      "question": "What is the value of 2 to the power of 5?",
+      "expected": "32",
+      "model_answer": "2 to the power of 5 is 25.",
+      "correct": false
+    },
+    {
+      "id": 5,
+      "category": "Mathematics",
+      "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+      "expected": "40 square centimeters",
+      "model_answer": "The area of a rectangle with length 8 cm and width 5 cm is 8 cm × 5 cm = 45 cm2.",
+      "correct": false
+    },
+    {
+      "id": 6,
+      "category": "Mathematics",
+      "question": "What is the perimeter of a square with side length 7 cm?",
+      "expected": "28 centimeters",
+      "model_answer": "25 cm",
+      "correct": false
+    },
+    {
+      "id": 7,
+      "category": "Mathematics",
+      "question": "Solve for x: 2x + 6 = 14.",
+      "expected": "x = 4",
+      "model_answer": "2x + 6 = 14",
+      "correct": false
+    },
+    {
+      "id": 8,
+      "category": "Mathematics",
+      "question": "What is the average of 10, 20, and 30?",
+      "expected": "20",
+      "model_answer": "10",
+      "correct": false
+    },
+    {
+      "id": 9,
+      "category": "Mathematics",
+      "question": "What is the fraction 3/4 expressed as a percentage?",
+      "expected": "75%",
+      "model_answer": "3/4 is a percentage.",
+      "correct": false
+    },
+    {
+      "id": 10,
+      "category": "Mathematics",
+      "question": "What is the next number in the sequence 2, 4, 6, 8, 10?",
+      "expected": "12",
+      "model_answer": "12",
+      "correct": true
+    },
+    {
+      "id": 11,
+      "category": "Chemistry",
+      "question": "What is the chemical formula for water?",
+      "expected": "H2O",
+      "model_answer": "H2O",
+      "correct": true
+    },
+    {
+      "id": 12,
+      "category": "Chemistry",
+      "question": "What is the chemical symbol for sodium?",
+      "expected": "Na",
+      "model_answer": "Na",
+      "correct": true
+    },
+    {
+      "id": 13,
+      "category": "Chemistry",
+      "question": "What is the chemical symbol for gold?",
+      "expected": "Au",
+      "model_answer": "The chemical symbol for gold is Au.",
+      "correct": true
+    },
+    {
+      "id": 14,
+      "category": "Chemistry",
+      "question": "What is the pH of a neutral solution at room temperature?",
+      "expected": "7",
+      "model_answer": "The pH of a solution is the negative logarithm of the concentration of hydrogen ions.",
+      "correct": false
+    },
+    {
+      "id": 15,
+      "category": "Chemistry",
+      "question": "What gas do humans primarily need for respiration?",
+      "expected": "Oxygen",
+      "model_answer": "Oxygen.",
+      "correct": true
+    },
+    {
+      "id": 16,
+      "category": "Chemistry",
+      "question": "What is the atomic number of carbon?",
+      "expected": "6",
+      "model_answer": "Carbon has an atomic number of 6.",
+      "correct": true
+    },
+    {
+      "id": 17,
+      "category": "Chemistry",
+      "question": "What type of bond involves the sharing of electrons between atoms?",
+      "expected": "Covalent bond",
+      "model_answer": "A covalent bond is a type of bond that involves sharing of electrons between atoms.",
+      "correct": true
+    },
+    {
+      "id": 18,
+      "category": "Chemistry",
+      "question": "What is the chemical formula for carbon dioxide?",
+      "expected": "CO2",
+      "model_answer": "Carbon dioxide is a colorless, odorless, tasteless gas.",
+      "correct": false
+    },
+    {
+      "id": 19,
+      "category": "Chemistry",
+      "question": "What is the common name for sodium chloride?",
+      "expected": "Table salt",
+      "model_answer": "Sodium chloride is also known as common salt.",
+      "correct": true
+    },
+    {
+      "id": 20,
+      "category": "Chemistry",
+      "question": "What particle in an atom has a negative electrical charge?",
+      "expected": "Electron",
+      "model_answer": "An electron.",
+      "correct": true
+    },
+    {
+      "id": 21,
+      "category": "Science",
+      "question": "What process do plants use to convert light energy into chemical energy?",
+      "expected": "Photosynthesis",
+      "model_answer": "Photosynthesis is the process by which plants convert light energy into chemical energy.",
+      "correct": true
+    },
+    {
+      "id": 22,
+      "category": "Science",
+      "question": "What is the largest organ in the human body?",
+      "expected": "Skin",
+      "model_answer": "The heart.",
+      "correct": false
+    },
+    {
+      "id": 23,
+      "category": "Science",
+      "question": "What force keeps objects attracted to Earth?",
+      "expected": "Gravity",
+      "model_answer": "The force of gravity is the force that keeps objects in their orbits around the Sun.",
+      "correct": true
+    },
+    {
+      "id": 24,
+      "category": "Science",
+      "question": "What gas makes up the largest percentage of Earth's atmosphere?",
+      "expected": "Nitrogen",
+      "model_answer": "Oxygen.",
+      "correct": false
+    },
+    {
+      "id": 25,
+      "category": "Science",
+      "question": "How many bones are there in the typical adult human skeleton?",
+      "expected": "206",
+      "model_answer": "There are 206 bones in the human skeleton.",
+      "correct": true
+    },
+    {
+      "id": 26,
+      "category": "Science",
+      "question": "What is the boiling point of water at standard atmospheric pressure in degrees Celsius?",
+      "expected": "100 degrees Celsius",
+      "model_answer": "100 degrees Celsius",
+      "correct": true
+    },
+    {
+      "id": 27,
+      "category": "Science",
+      "question": "What is the basic unit of life?",
+      "expected": "Cell",
+      "model_answer": "The basic unit of life is the cell.",
+      "correct": true
+    },
+    {
+      "id": 28,
+      "category": "Science",
+      "question": "What planet is known as the Red Planet?",
+      "expected": "Mars",
+      "model_answer": "Mars.",
+      "correct": true
+    },
+    {
+      "id": 29,
+      "category": "Science",
+      "question": "What part of a plant absorbs water and minerals from the soil?",
+      "expected": "Roots",
+      "model_answer": "The roots absorb water and minerals from the soil.",
+      "correct": true
+    },
+    {
+      "id": 30,
+      "category": "Science",
+      "question": "What is the speed of light in a vacuum approximately?",
+      "expected": "3 × 10^8 meters per second",
+      "model_answer": "The speed of light in a vacuum is 299,792,458 meters per second.",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,1340 @@
+[
+  {
+    "id": 1,
+    "category": "Mathematics",
+    "question": "What is 7 multiplied by 8?",
+    "answer": "56"
+  },
+  {
+    "id": 2,
+    "category": "Mathematics",
+    "question": "What is 9 multiplied by 6?",
+    "answer": "54"
+  },
+  {
+    "id": 3,
+    "category": "Mathematics",
+    "question": "What is 14 multiplied by 5?",
+    "answer": "70"
+  },
+  {
+    "id": 4,
+    "category": "Mathematics",
+    "question": "What is 18 multiplied by 4?",
+    "answer": "72"
+  },
+  {
+    "id": 5,
+    "category": "Mathematics",
+    "question": "What is 11 multiplied by 9?",
+    "answer": "99"
+  },
+  {
+    "id": 6,
+    "category": "Mathematics",
+    "question": "What is 16 multiplied by 7?",
+    "answer": "112"
+  },
+  {
+    "id": 7,
+    "category": "Mathematics",
+    "question": "What is 13 multiplied by 6?",
+    "answer": "78"
+  },
+  {
+    "id": 8,
+    "category": "Mathematics",
+    "question": "What is 24 multiplied by 3?",
+    "answer": "72"
+  },
+  {
+    "id": 9,
+    "category": "Mathematics",
+    "question": "What is 45 divided by 5?",
+    "answer": "9"
+  },
+  {
+    "id": 10,
+    "category": "Mathematics",
+    "question": "What is 72 divided by 8?",
+    "answer": "9"
+  },
+  {
+    "id": 11,
+    "category": "Mathematics",
+    "question": "What is 81 divided by 9?",
+    "answer": "9"
+  },
+  {
+    "id": 12,
+    "category": "Mathematics",
+    "question": "What is 96 divided by 12?",
+    "answer": "8"
+  },
+  {
+    "id": 13,
+    "category": "Mathematics",
+    "question": "What is 144 divided by 12?",
+    "answer": "12"
+  },
+  {
+    "id": 14,
+    "category": "Mathematics",
+    "question": "What is 63 divided by 7?",
+    "answer": "9"
+  },
+  {
+    "id": 15,
+    "category": "Mathematics",
+    "question": "What is 100 divided by 4?",
+    "answer": "25"
+  },
+  {
+    "id": 16,
+    "category": "Mathematics",
+    "question": "What is 17 plus 28?",
+    "answer": "45"
+  },
+  {
+    "id": 17,
+    "category": "Mathematics",
+    "question": "What is 56 plus 37?",
+    "answer": "93"
+  },
+  {
+    "id": 18,
+    "category": "Mathematics",
+    "question": "What is 84 minus 29?",
+    "answer": "55"
+  },
+  {
+    "id": 19,
+    "category": "Mathematics",
+    "question": "What is 100 minus 47?",
+    "answer": "53"
+  },
+  {
+    "id": 20,
+    "category": "Mathematics",
+    "question": "What is 135 plus 65?",
+    "answer": "200"
+  },
+  {
+    "id": 21,
+    "category": "Mathematics",
+    "question": "What is 250 minus 125?",
+    "answer": "125"
+  },
+  {
+    "id": 22,
+    "category": "Mathematics",
+    "question": "What is 43 plus 39?",
+    "answer": "82"
+  },
+  {
+    "id": 23,
+    "category": "Mathematics",
+    "question": "What is 90 minus 36?",
+    "answer": "54"
+  },
+  {
+    "id": 24,
+    "category": "Mathematics",
+    "question": "What is 10% of 300?",
+    "answer": "30"
+  },
+  {
+    "id": 25,
+    "category": "Mathematics",
+    "question": "What is 20% of 150?",
+    "answer": "30"
+  },
+  {
+    "id": 26,
+    "category": "Mathematics",
+    "question": "What is 50% of 84?",
+    "answer": "42"
+  },
+  {
+    "id": 27,
+    "category": "Mathematics",
+    "question": "What is 25% of 80?",
+    "answer": "20"
+  },
+  {
+    "id": 28,
+    "category": "Mathematics",
+    "question": "What is 10% of 450?",
+    "answer": "45"
+  },
+  {
+    "id": 29,
+    "category": "Mathematics",
+    "question": "What is 75% of 40?",
+    "answer": "30"
+  },
+  {
+    "id": 30,
+    "category": "Mathematics",
+    "question": "What is 5% of 200?",
+    "answer": "10"
+  },
+  {
+    "id": 31,
+    "category": "Mathematics",
+    "question": "What is 40% of 250?",
+    "answer": "100"
+  },
+  {
+    "id": 32,
+    "category": "Mathematics",
+    "question": "What is the square of 9?",
+    "answer": "81"
+  },
+  {
+    "id": 33,
+    "category": "Mathematics",
+    "question": "What is the square of 11?",
+    "answer": "121"
+  },
+  {
+    "id": 34,
+    "category": "Mathematics",
+    "question": "What is the square of 12?",
+    "answer": "144"
+  },
+  {
+    "id": 35,
+    "category": "Mathematics",
+    "question": "What is the square of 15?",
+    "answer": "225"
+  },
+  {
+    "id": 36,
+    "category": "Mathematics",
+    "question": "What is the square of 20?",
+    "answer": "400"
+  },
+  {
+    "id": 37,
+    "category": "Mathematics",
+    "question": "What is the square root of 81?",
+    "answer": "9"
+  },
+  {
+    "id": 38,
+    "category": "Mathematics",
+    "question": "What is the square root of 100?",
+    "answer": "10"
+  },
+  {
+    "id": 39,
+    "category": "Mathematics",
+    "question": "What is the square root of 169?",
+    "answer": "13"
+  },
+  {
+    "id": 40,
+    "category": "Mathematics",
+    "question": "What is the square root of 196?",
+    "answer": "14"
+  },
+  {
+    "id": 41,
+    "category": "Mathematics",
+    "question": "What is the square root of 225?",
+    "answer": "15"
+  },
+  {
+    "id": 42,
+    "category": "Mathematics",
+    "question": "What is 2 to the power of 6?",
+    "answer": "64"
+  },
+  {
+    "id": 43,
+    "category": "Mathematics",
+    "question": "What is 3 to the power of 4?",
+    "answer": "81"
+  },
+  {
+    "id": 44,
+    "category": "Mathematics",
+    "question": "What is 5 to the power of 3?",
+    "answer": "125"
+  },
+  {
+    "id": 45,
+    "category": "Mathematics",
+    "question": "What is 10 to the power of 3?",
+    "answer": "1000"
+  },
+  {
+    "id": 46,
+    "category": "Mathematics",
+    "question": "Solve for x: x + 7 = 15.",
+    "answer": "x = 8"
+  },
+  {
+    "id": 47,
+    "category": "Mathematics",
+    "question": "Solve for x: x - 9 = 4.",
+    "answer": "x = 13"
+  },
+  {
+    "id": 48,
+    "category": "Mathematics",
+    "question": "Solve for x: 3x = 21.",
+    "answer": "x = 7"
+  },
+  {
+    "id": 49,
+    "category": "Mathematics",
+    "question": "Solve for x: 4x = 32.",
+    "answer": "x = 8"
+  },
+  {
+    "id": 50,
+    "category": "Mathematics",
+    "question": "Solve for x: 2x + 5 = 15.",
+    "answer": "x = 5"
+  },
+  {
+    "id": 51,
+    "category": "Mathematics",
+    "question": "Solve for x: 3x + 6 = 18.",
+    "answer": "x = 4"
+  },
+  {
+    "id": 52,
+    "category": "Mathematics",
+    "question": "Solve for x: 5x - 10 = 20.",
+    "answer": "x = 6"
+  },
+  {
+    "id": 53,
+    "category": "Mathematics",
+    "question": "Solve for x: 4x - 8 = 16.",
+    "answer": "x = 6"
+  },
+  {
+    "id": 54,
+    "category": "Mathematics",
+    "question": "What is the average of 5, 10, and 15?",
+    "answer": "10"
+  },
+  {
+    "id": 55,
+    "category": "Mathematics",
+    "question": "What is the average of 12, 18, and 24?",
+    "answer": "18"
+  },
+  {
+    "id": 56,
+    "category": "Mathematics",
+    "question": "What is the average of 20, 30, and 40?",
+    "answer": "30"
+  },
+  {
+    "id": 57,
+    "category": "Mathematics",
+    "question": "What is the average of 6, 12, and 18?",
+    "answer": "12"
+  },
+  {
+    "id": 58,
+    "category": "Mathematics",
+    "question": "What is the perimeter of a rectangle with length 6 cm and width 4 cm?",
+    "answer": "20 centimeters"
+  },
+  {
+    "id": 59,
+    "category": "Mathematics",
+    "question": "What is the area of a rectangle with length 9 cm and width 3 cm?",
+    "answer": "27 square centimeters"
+  },
+  {
+    "id": 60,
+    "category": "Mathematics",
+    "question": "What is the area of a square with side length 6 cm?",
+    "answer": "36 square centimeters"
+  },
+  {
+    "id": 61,
+    "category": "Mathematics",
+    "question": "What is the perimeter of a square with side length 9 cm?",
+    "answer": "36 centimeters"
+  },
+  {
+    "id": 62,
+    "category": "Mathematics",
+    "question": "What is 1/2 expressed as a percentage?",
+    "answer": "50%"
+  },
+  {
+    "id": 63,
+    "category": "Mathematics",
+    "question": "What is 1/4 expressed as a percentage?",
+    "answer": "25%"
+  },
+  {
+    "id": 64,
+    "category": "Mathematics",
+    "question": "What is 1/5 expressed as a percentage?",
+    "answer": "20%"
+  },
+  {
+    "id": 65,
+    "category": "Mathematics",
+    "question": "What is 3/5 expressed as a percentage?",
+    "answer": "60%"
+  },
+  {
+    "id": 66,
+    "category": "Mathematics",
+    "question": "What is 2/5 expressed as a percentage?",
+    "answer": "40%"
+  },
+  {
+    "id": 67,
+    "category": "Mathematics",
+    "question": "What is 4/5 expressed as a percentage?",
+    "answer": "80%"
+  },
+  {
+    "id": 68,
+    "category": "Mathematics",
+    "question": "What is the next number in the sequence 3, 6, 9, 12, 15?",
+    "answer": "18"
+  },
+  {
+    "id": 69,
+    "category": "Mathematics",
+    "question": "What is the next number in the sequence 5, 10, 15, 20, 25?",
+    "answer": "30"
+  },
+  {
+    "id": 70,
+    "category": "Mathematics",
+    "question": "What is the next number in the sequence 1, 3, 5, 7, 9?",
+    "answer": "11"
+  },
+  {
+    "id": 71,
+    "category": "Mathematics",
+    "question": "What is the next number in the sequence 10, 20, 30, 40, 50?",
+    "answer": "60"
+  },
+  {
+    "id": 72,
+    "category": "Mathematics",
+    "question": "How many degrees are in a right angle?",
+    "answer": "90 degrees"
+  },
+  {
+    "id": 73,
+    "category": "Mathematics",
+    "question": "How many sides does a hexagon have?",
+    "answer": "6"
+  },
+  {
+    "id": 74,
+    "category": "Mathematics",
+    "question": "How many sides does an octagon have?",
+    "answer": "8"
+  },
+  {
+    "id": 75,
+    "category": "Mathematics",
+    "question": "How many sides does a pentagon have?",
+    "answer": "5"
+  },
+  {
+    "id": 76,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for hydrogen?",
+    "answer": "H"
+  },
+  {
+    "id": 77,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "O"
+  },
+  {
+    "id": 78,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for nitrogen?",
+    "answer": "N"
+  },
+  {
+    "id": 79,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for carbon?",
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for iron?",
+    "answer": "Fe"
+  },
+  {
+    "id": 81,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for copper?",
+    "answer": "Cu"
+  },
+  {
+    "id": 82,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for silver?",
+    "answer": "Ag"
+  },
+  {
+    "id": 83,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for potassium?",
+    "answer": "K"
+  },
+  {
+    "id": 84,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for calcium?",
+    "answer": "Ca"
+  },
+  {
+    "id": 85,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for chlorine?",
+    "answer": "Cl"
+  },
+  {
+    "id": 86,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for magnesium?",
+    "answer": "Mg"
+  },
+  {
+    "id": 87,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for zinc?",
+    "answer": "Zn"
+  },
+  {
+    "id": 88,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for helium?",
+    "answer": "He"
+  },
+  {
+    "id": 89,
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for neon?",
+    "answer": "Ne"
+  },
+  {
+    "id": 90,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for methane?",
+    "answer": "CH4"
+  },
+  {
+    "id": 91,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for ammonia?",
+    "answer": "NH3"
+  },
+  {
+    "id": 92,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for oxygen gas?",
+    "answer": "O2"
+  },
+  {
+    "id": 93,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for hydrogen gas?",
+    "answer": "H2"
+  },
+  {
+    "id": 94,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for nitrogen gas?",
+    "answer": "N2"
+  },
+  {
+    "id": 95,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for sulfuric acid?",
+    "answer": "H2SO4"
+  },
+  {
+    "id": 96,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "answer": "HCl"
+  },
+  {
+    "id": 97,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for sodium hydroxide?",
+    "answer": "NaOH"
+  },
+  {
+    "id": 98,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for calcium carbonate?",
+    "answer": "CaCO3"
+  },
+  {
+    "id": 99,
+    "category": "Chemistry",
+    "question": "What is the chemical formula for glucose?",
+    "answer": "C6H12O6"
+  },
+  {
+    "id": 100,
+    "category": "Chemistry",
+    "question": "What is the common name for H2O?",
+    "answer": "Water"
+  },
+  {
+    "id": 101,
+    "category": "Chemistry",
+    "question": "What is the common name for CO2?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 102,
+    "category": "Chemistry",
+    "question": "What is the common name for NaHCO3?",
+    "answer": "Baking soda"
+  },
+  {
+    "id": 103,
+    "category": "Chemistry",
+    "question": "What is the common name for CH4?",
+    "answer": "Methane"
+  },
+  {
+    "id": 104,
+    "category": "Chemistry",
+    "question": "What is the common name for NH3?",
+    "answer": "Ammonia"
+  },
+  {
+    "id": 105,
+    "category": "Chemistry",
+    "question": "What particle in an atom has a positive electrical charge?",
+    "answer": "Proton"
+  },
+  {
+    "id": 106,
+    "category": "Chemistry",
+    "question": "What particle in an atom has no electrical charge?",
+    "answer": "Neutron"
+  },
+  {
+    "id": 107,
+    "category": "Chemistry",
+    "question": "What particle in an atom has a negative electrical charge?",
+    "answer": "Electron"
+  },
+  {
+    "id": 108,
+    "category": "Chemistry",
+    "question": "What is the center of an atom called?",
+    "answer": "Nucleus"
+  },
+  {
+    "id": 109,
+    "category": "Chemistry",
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "id": 110,
+    "category": "Chemistry",
+    "question": "What is the atomic number of oxygen?",
+    "answer": "8"
+  },
+  {
+    "id": 111,
+    "category": "Chemistry",
+    "question": "What is the atomic number of nitrogen?",
+    "answer": "7"
+  },
+  {
+    "id": 112,
+    "category": "Chemistry",
+    "question": "What is the atomic number of sodium?",
+    "answer": "11"
+  },
+  {
+    "id": 113,
+    "category": "Chemistry",
+    "question": "What is the atomic number of iron?",
+    "answer": "26"
+  },
+  {
+    "id": 114,
+    "category": "Chemistry",
+    "question": "What is the atomic number of gold?",
+    "answer": "79"
+  },
+  {
+    "id": 115,
+    "category": "Chemistry",
+    "question": "What type of bond involves transfer of electrons?",
+    "answer": "Ionic bond"
+  },
+  {
+    "id": 116,
+    "category": "Chemistry",
+    "question": "What type of bond involves sharing of electrons?",
+    "answer": "Covalent bond"
+  },
+  {
+    "id": 117,
+    "category": "Chemistry",
+    "question": "What is a substance with a pH below 7 called?",
+    "answer": "Acid"
+  },
+  {
+    "id": 118,
+    "category": "Chemistry",
+    "question": "What is a substance with a pH above 7 called?",
+    "answer": "Base"
+  },
+  {
+    "id": 119,
+    "category": "Chemistry",
+    "question": "What is a substance with a pH of 7 generally called?",
+    "answer": "Neutral"
+  },
+  {
+    "id": 120,
+    "category": "Chemistry",
+    "question": "What color does blue litmus paper turn in an acid?",
+    "answer": "Red"
+  },
+  {
+    "id": 121,
+    "category": "Chemistry",
+    "question": "What color does red litmus paper turn in a base?",
+    "answer": "Blue"
+  },
+  {
+    "id": 122,
+    "category": "Chemistry",
+    "question": "What gas is released when many acids react with metals?",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 123,
+    "category": "Chemistry",
+    "question": "What gas is required for combustion?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 124,
+    "category": "Chemistry",
+    "question": "What gas is commonly produced when carbon-containing fuels burn completely?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 125,
+    "category": "Chemistry",
+    "question": "What is the process of a liquid changing into a gas called?",
+    "answer": "Vaporization"
+  },
+  {
+    "id": 126,
+    "category": "Chemistry",
+    "question": "What is the process of a gas changing into a liquid called?",
+    "answer": "Condensation"
+  },
+  {
+    "id": 127,
+    "category": "Chemistry",
+    "question": "What is the process of a solid changing into a liquid called?",
+    "answer": "Melting"
+  },
+  {
+    "id": 128,
+    "category": "Chemistry",
+    "question": "What is the process of a liquid changing into a solid called?",
+    "answer": "Freezing"
+  },
+  {
+    "id": 129,
+    "category": "Chemistry",
+    "question": "What is the process of a solid changing directly into a gas called?",
+    "answer": "Sublimation"
+  },
+  {
+    "id": 130,
+    "category": "Chemistry",
+    "question": "What is the process of a gas changing directly into a solid called?",
+    "answer": "Deposition"
+  },
+  {
+    "id": 131,
+    "category": "Chemistry",
+    "question": "What is a homogeneous mixture called?",
+    "answer": "Solution"
+  },
+  {
+    "id": 132,
+    "category": "Chemistry",
+    "question": "What is the substance that dissolves a solute called?",
+    "answer": "Solvent"
+  },
+  {
+    "id": 133,
+    "category": "Chemistry",
+    "question": "What is the substance dissolved in a solution called?",
+    "answer": "Solute"
+  },
+  {
+    "id": 134,
+    "category": "Chemistry",
+    "question": "What is the smallest unit of an element that retains its chemical properties?",
+    "answer": "Atom"
+  },
+  {
+    "id": 135,
+    "category": "Chemistry",
+    "question": "What is an element?",
+    "answer": "A pure substance made of one type of atom"
+  },
+  {
+    "id": 136,
+    "category": "Chemistry",
+    "question": "What is a compound?",
+    "answer": "A substance made of two or more different elements chemically bonded"
+  },
+  {
+    "id": 137,
+    "category": "Chemistry",
+    "question": "What is the periodic table used to organize?",
+    "answer": "Chemical elements"
+  },
+  {
+    "id": 138,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Na?",
+    "answer": "Sodium"
+  },
+  {
+    "id": 139,
+    "category": "Chemistry",
+    "question": "Which element has the symbol K?",
+    "answer": "Potassium"
+  },
+  {
+    "id": 140,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Fe?",
+    "answer": "Iron"
+  },
+  {
+    "id": 141,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Cu?",
+    "answer": "Copper"
+  },
+  {
+    "id": 142,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Ag?",
+    "answer": "Silver"
+  },
+  {
+    "id": 143,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Au?",
+    "answer": "Gold"
+  },
+  {
+    "id": 144,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Cl?",
+    "answer": "Chlorine"
+  },
+  {
+    "id": 145,
+    "category": "Chemistry",
+    "question": "Which element has the symbol Ca?",
+    "answer": "Calcium"
+  },
+  {
+    "id": 146,
+    "category": "Chemistry",
+    "question": "What is the main gas in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 147,
+    "category": "Chemistry",
+    "question": "What is the approximate pH of pure water at room temperature?",
+    "answer": "7"
+  },
+  {
+    "id": 148,
+    "category": "General Science",
+    "question": "What organ pumps blood around the human body?",
+    "answer": "Heart"
+  },
+  {
+    "id": 149,
+    "category": "General Science",
+    "question": "What organ is primarily responsible for breathing?",
+    "answer": "Lungs"
+  },
+  {
+    "id": 150,
+    "category": "General Science",
+    "question": "What organ controls most activities of the human body?",
+    "answer": "Brain"
+  },
+  {
+    "id": 151,
+    "category": "General Science",
+    "question": "What organ filters waste from the blood and produces urine?",
+    "answer": "Kidneys"
+  },
+  {
+    "id": 152,
+    "category": "General Science",
+    "question": "What organ produces bile and helps process nutrients?",
+    "answer": "Liver"
+  },
+  {
+    "id": 153,
+    "category": "General Science",
+    "question": "What is the basic unit of the nervous system?",
+    "answer": "Neuron"
+  },
+  {
+    "id": 154,
+    "category": "General Science",
+    "question": "What is the basic unit of the human body?",
+    "answer": "Cell"
+  },
+  {
+    "id": 155,
+    "category": "General Science",
+    "question": "What molecule carries genetic information?",
+    "answer": "DNA"
+  },
+  {
+    "id": 156,
+    "category": "General Science",
+    "question": "What structure contains most of a cell's DNA?",
+    "answer": "Nucleus"
+  },
+  {
+    "id": 157,
+    "category": "General Science",
+    "question": "What process do plants use to make food using light?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 158,
+    "category": "General Science",
+    "question": "What pigment gives plants their green color?",
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 159,
+    "category": "General Science",
+    "question": "What gas do plants take in during photosynthesis?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 160,
+    "category": "General Science",
+    "question": "What gas do plants release during photosynthesis?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 161,
+    "category": "General Science",
+    "question": "What part of a plant transports water upward?",
+    "answer": "Xylem"
+  },
+  {
+    "id": 162,
+    "category": "General Science",
+    "question": "What part of a plant transports sugars?",
+    "answer": "Phloem"
+  },
+  {
+    "id": 163,
+    "category": "General Science",
+    "question": "What part of a plant usually contains the reproductive structures?",
+    "answer": "Flower"
+  },
+  {
+    "id": 164,
+    "category": "General Science",
+    "question": "What part of a plant anchors it in the soil?",
+    "answer": "Roots"
+  },
+  {
+    "id": 165,
+    "category": "General Science",
+    "question": "What force attracts objects toward Earth?",
+    "answer": "Gravity"
+  },
+  {
+    "id": 166,
+    "category": "General Science",
+    "question": "What force opposes motion between surfaces?",
+    "answer": "Friction"
+  },
+  {
+    "id": 167,
+    "category": "General Science",
+    "question": "What is the SI unit of force?",
+    "answer": "Newton"
+  },
+  {
+    "id": 168,
+    "category": "General Science",
+    "question": "What is the SI unit of energy?",
+    "answer": "Joule"
+  },
+  {
+    "id": 169,
+    "category": "General Science",
+    "question": "What is the SI unit of power?",
+    "answer": "Watt"
+  },
+  {
+    "id": 170,
+    "category": "General Science",
+    "question": "What is the SI unit of electric current?",
+    "answer": "Ampere"
+  },
+  {
+    "id": 171,
+    "category": "General Science",
+    "question": "What is the SI unit of temperature?",
+    "answer": "Kelvin"
+  },
+  {
+    "id": 172,
+    "category": "General Science",
+    "question": "What is the speed of sound in air approximately?",
+    "answer": "343 meters per second"
+  },
+  {
+    "id": 173,
+    "category": "General Science",
+    "question": "What is the speed of light in a vacuum approximately?",
+    "answer": "3 × 10^8 meters per second"
+  },
+  {
+    "id": 174,
+    "category": "General Science",
+    "question": "What instrument measures temperature?",
+    "answer": "Thermometer"
+  },
+  {
+    "id": 175,
+    "category": "General Science",
+    "question": "What instrument measures atmospheric pressure?",
+    "answer": "Barometer"
+  },
+  {
+    "id": 176,
+    "category": "General Science",
+    "question": "What instrument measures earthquakes?",
+    "answer": "Seismometer"
+  },
+  {
+    "id": 177,
+    "category": "General Science",
+    "question": "What instrument is used to observe distant stars?",
+    "answer": "Telescope"
+  },
+  {
+    "id": 178,
+    "category": "General Science",
+    "question": "What is Earth's natural satellite?",
+    "answer": "Moon"
+  },
+  {
+    "id": 179,
+    "category": "General Science",
+    "question": "What planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "id": 180,
+    "category": "General Science",
+    "question": "What planet is known for its prominent rings?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 181,
+    "category": "General Science",
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 182,
+    "category": "General Science",
+    "question": "What planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": 183,
+    "category": "General Science",
+    "question": "What planet is farthest from the Sun among the eight planets?",
+    "answer": "Neptune"
+  },
+  {
+    "id": 184,
+    "category": "General Science",
+    "question": "What star is at the center of our solar system?",
+    "answer": "Sun"
+  },
+  {
+    "id": 185,
+    "category": "General Science",
+    "question": "How many planets are in the solar system?",
+    "answer": "8"
+  },
+  {
+    "id": 186,
+    "category": "General Science",
+    "question": "What galaxy contains our solar system?",
+    "answer": "Milky Way"
+  },
+  {
+    "id": 187,
+    "category": "General Science",
+    "question": "What causes day and night on Earth?",
+    "answer": "Earth's rotation"
+  },
+  {
+    "id": 188,
+    "category": "General Science",
+    "question": "What causes the seasons on Earth?",
+    "answer": "Earth's axial tilt as it orbits the Sun"
+  },
+  {
+    "id": 189,
+    "category": "General Science",
+    "question": "What is the layer of gases surrounding Earth called?",
+    "answer": "Atmosphere"
+  },
+  {
+    "id": 190,
+    "category": "General Science",
+    "question": "What gas makes up most of Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 191,
+    "category": "General Science",
+    "question": "What gas do humans need for aerobic respiration?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 192,
+    "category": "General Science",
+    "question": "What is water's freezing point in Celsius at standard pressure?",
+    "answer": "0 degrees Celsius"
+  },
+  {
+    "id": 193,
+    "category": "General Science",
+    "question": "What is water's boiling point in Celsius at standard pressure?",
+    "answer": "100 degrees Celsius"
+  },
+  {
+    "id": 194,
+    "category": "General Science",
+    "question": "At what temperature does water freeze in Fahrenheit?",
+    "answer": "32 degrees Fahrenheit"
+  },
+  {
+    "id": 195,
+    "category": "General Science",
+    "question": "At what temperature does water boil in Fahrenheit at standard pressure?",
+    "answer": "212 degrees Fahrenheit"
+  },
+  {
+    "id": 196,
+    "category": "General Science",
+    "question": "What is the change from liquid water to water vapor called?",
+    "answer": "Evaporation"
+  },
+  {
+    "id": 197,
+    "category": "General Science",
+    "question": "What is the water cycle process where water vapor forms clouds?",
+    "answer": "Condensation"
+  },
+  {
+    "id": 198,
+    "category": "General Science",
+    "question": "What is precipitation?",
+    "answer": "Water falling from the atmosphere to Earth's surface"
+  },
+  {
+    "id": 199,
+    "category": "General Science",
+    "question": "How many bones are in a typical adult human skeleton?",
+    "answer": "206"
+  },
+  {
+    "id": 200,
+    "category": "General Science",
+    "question": "How many chambers does the human heart have?",
+    "answer": "4"
+  },
+  {
+    "id": 201,
+    "category": "General Science",
+    "question": "How many lungs does a typical human have?",
+    "answer": "2"
+  },
+  {
+    "id": 202,
+    "category": "General Science",
+    "question": "How many teeth does a typical adult human have?",
+    "answer": "32"
+  },
+  {
+    "id": 203,
+    "category": "General Science",
+    "question": "What blood cells help fight infections?",
+    "answer": "White blood cells"
+  },
+  {
+    "id": 204,
+    "category": "General Science",
+    "question": "What blood cells carry oxygen?",
+    "answer": "Red blood cells"
+  },
+  {
+    "id": 205,
+    "category": "General Science",
+    "question": "What protein in red blood cells carries oxygen?",
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 206,
+    "category": "General Science",
+    "question": "What vitamin is produced in skin in response to sunlight?",
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 207,
+    "category": "General Science",
+    "question": "What is the process by which organisms produce offspring?",
+    "answer": "Reproduction"
+  },
+  {
+    "id": 208,
+    "category": "General Science",
+    "question": "What is an animal that eats only plants called?",
+    "answer": "Herbivore"
+  },
+  {
+    "id": 209,
+    "category": "General Science",
+    "question": "What is an animal that eats only other animals called?",
+    "answer": "Carnivore"
+  },
+  {
+    "id": 210,
+    "category": "General Science",
+    "question": "What is an animal that eats both plants and animals called?",
+    "answer": "Omnivore"
+  },
+  {
+    "id": 211,
+    "category": "General Science",
+    "question": "What is the study of living organisms called?",
+    "answer": "Biology"
+  },
+  {
+    "id": 212,
+    "category": "General Science",
+    "question": "What is the study of matter and its interactions called?",
+    "answer": "Chemistry"
+  },
+  {
+    "id": 213,
+    "category": "General Science",
+    "question": "What is the study of forces, motion, and energy called?",
+    "answer": "Physics"
+  },
+  {
+    "id": 214,
+    "category": "General Science",
+    "question": "What is the study of Earth's rocks and structure called?",
+    "answer": "Geology"
+  },
+  {
+    "id": 215,
+    "category": "General Science",
+    "question": "What is the study of weather and the atmosphere called?",
+    "answer": "Meteorology"
+  },
+  {
+    "id": 216,
+    "category": "General Science",
+    "question": "What is a habitat?",
+    "answer": "The natural environment where an organism lives"
+  },
+  {
+    "id": 217,
+    "category": "General Science",
+    "question": "What is an ecosystem?",
+    "answer": "A community of organisms and their physical environment"
+  },
+  {
+    "id": 218,
+    "category": "General Science",
+    "question": "What is biodiversity?",
+    "answer": "The variety of living organisms in an area"
+  },
+  {
+    "id": 219,
+    "category": "General Science",
+    "question": "What is a food chain?",
+    "answer": "A sequence showing how energy and nutrients pass between organisms"
+  },
+  {
+    "id": 220,
+    "category": "General Science",
+    "question": "What is a renewable energy source?",
+    "answer": "An energy source that is naturally replenished"
+  },
+  {
+    "id": 221,
+    "category": "General Science",
+    "question": "What is solar energy?",
+    "answer": "Energy from the Sun"
+  },
+  {
+    "id": 222,
+    "category": "General Science",
+    "question": "What is wind energy?",
+    "answer": "Energy obtained from moving air"
+  },
+  {
+    "id": 223,
+    "category": "General Science",
+    "question": "What is an electric circuit?",
+    "answer": "A closed path through which electric current can flow"
+  }
+]
